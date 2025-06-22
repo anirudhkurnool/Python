@@ -1,0 +1,7 @@
+Doubts
+__repr__ vs __str__ ?
+
+
+To do
+[]custom exceptions 
+[]thread safe
